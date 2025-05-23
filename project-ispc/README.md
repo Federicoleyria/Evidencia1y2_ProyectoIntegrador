@@ -33,4 +33,4 @@ npm run dev
 
 ## Capturas
 
-![](https://github.com/Federicoleyria/Federicoleyria/Evidencia1y2_ProyectoIntegrador)![]
+![](https://github.com/Federicoleyria/Evidencia1y2_ProyectoIntegrador/blob/main/project-ispc/capturas/Img1.png)![](https://github.com/Federicoleyria/Evidencia1y2_ProyectoIntegrador/blob/main/project-ispc/capturas/Img2.png)
